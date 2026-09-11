@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-<loc>https://www.alltopseal.com/</loc>
-<lastmod>2026-07-09</lastmod>
-<changefreq>weekly</changefreq>
-<priority>1.0</priority>
-</url>
-
+  <url><loc>https://www.alltopseal.com/</loc></url>
+  <url><loc>https://www.alltopseal.com/products.html</loc></url>
+  <url><loc>https://www.alltopseal.com/flange-gaskets.html</loc></url>
+  <url><loc>https://www.alltopseal.com/non-asbestos-gasket-sheet.html</loc></url>
+  <url><loc>https://www.alltopseal.com/sbr-rubber-sheet.html</loc></url>
+  <url><loc>https://www.alltopseal.com/rubberised-cork.html</loc></url>
+  <url><loc>https://www.alltopseal.com/gland-packing.html</loc></url>
+  <url><loc>https://www.alltopseal.com/asbestos-rope-tape.html</loc></url>
+  <url><loc>https://www.alltopseal.com/custom-gaskets.html</loc></url>
+  <url><loc>https://www.alltopseal.com/industries.html</loc></url>
+  <url><loc>https://www.alltopseal.com/technical-resources.html</loc></url>
+  <url><loc>https://www.alltopseal.com/how-to-measure-gasket.html</loc></url>
+  <url><loc>https://www.alltopseal.com/about.html</loc></url>
+  <url><loc>https://www.alltopseal.com/request-quote.html</loc></url>
 </urlset>
