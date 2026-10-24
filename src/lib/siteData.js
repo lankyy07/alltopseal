@@ -11,7 +11,7 @@ export const company = {
   phoneIntl: "+234 811 688 6306",
   whatsapp: "2348116886306",
   whatsappUser: "@alltopseal",
-  email: "mbuchi619@gmail.com",
+  email: "buchii@alltopseal.com",
   website: "www.alltopseal.com",
   websiteUrl: "https://www.alltopseal.com",
 };
