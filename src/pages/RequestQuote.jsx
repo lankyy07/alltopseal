@@ -143,7 +143,7 @@ export default function RequestQuote() {
       <section className="py-14 lg:py-20 bg-[#f7f5f0]">
         <div className="max-w-4xl mx-auto px-4">
           <form
-            action="https://formsubmit.co/mbuchi619@gmail.com"
+            action="https://formsubmit.co/buchii@alltopseal.com"
             method="POST"
             encType="multipart/form-data"
             onSubmit={handleSubmit}
